@@ -5,6 +5,11 @@ guide to setting up dosbox+
 2. Unzip It
 3. Make Sure That Your Folder Where Your Games Are Is Called DOS
 4. Have Fun
+
+
+
+
+
 guide to setting up dosbox+ harddrive edition
 1. Download the .ZIP
 2. Unzip It
